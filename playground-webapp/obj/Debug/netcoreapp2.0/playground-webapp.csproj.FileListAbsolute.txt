@@ -1,0 +1,11 @@
+D:\Work\github\azureplayground\playground-webapp\bin\Debug\netcoreapp2.0\playground-webapp.deps.json
+D:\Work\github\azureplayground\playground-webapp\bin\Debug\netcoreapp2.0\playground-webapp.runtimeconfig.json
+D:\Work\github\azureplayground\playground-webapp\bin\Debug\netcoreapp2.0\playground-webapp.runtimeconfig.dev.json
+D:\Work\github\azureplayground\playground-webapp\bin\Debug\netcoreapp2.0\playground-webapp.dll
+D:\Work\github\azureplayground\playground-webapp\bin\Debug\netcoreapp2.0\playground-webapp.pdb
+D:\Work\github\azureplayground\playground-webapp\obj\Debug\netcoreapp2.0\playground-webapp.csprojAssemblyReference.cache
+D:\Work\github\azureplayground\playground-webapp\obj\Debug\netcoreapp2.0\playground-webapp.csproj.CoreCompileInputs.cache
+D:\Work\github\azureplayground\playground-webapp\obj\Debug\netcoreapp2.0\playground-webapp.AssemblyInfoInputs.cache
+D:\Work\github\azureplayground\playground-webapp\obj\Debug\netcoreapp2.0\playground-webapp.AssemblyInfo.cs
+D:\Work\github\azureplayground\playground-webapp\obj\Debug\netcoreapp2.0\playground-webapp.dll
+D:\Work\github\azureplayground\playground-webapp\obj\Debug\netcoreapp2.0\playground-webapp.pdb

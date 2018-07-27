@@ -12668,11 +12668,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Work\\github\\playground-webapp\\playground-webapp.csproj",
+      "projectUniqueName": "D:\\Work\\github\\azureplayground\\playground-webapp\\playground-webapp.csproj",
       "projectName": "playground-webapp",
-      "projectPath": "D:\\Work\\github\\playground-webapp\\playground-webapp.csproj",
+      "projectPath": "D:\\Work\\github\\azureplayground\\playground-webapp\\playground-webapp.csproj",
       "packagesPath": "C:\\Users\\Kaavya\\.nuget\\packages\\",
-      "outputPath": "D:\\Work\\github\\playground-webapp\\obj\\",
+      "outputPath": "D:\\Work\\github\\azureplayground\\playground-webapp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
