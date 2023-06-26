@@ -1,9 +1,5 @@
 on: 
-  push: 
-    branches: 
-      - 'main' 
-    paths: 
-      - 'appsettings.json' 
+  workflow_dispatch:
  
 jobs: 
   syncconfig: 
