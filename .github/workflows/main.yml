@@ -1,0 +1,21 @@
+on: 
+  push: 
+    branches: 
+      - 'main' 
+    paths: 
+      - 'appsettings.json' 
+ 
+jobs: 
+  syncconfig: 
+    runs-on: ubuntu-latest 
+    steps: 
+      # checkout done so that files in the repo can be read by the sync 
+      - uses: actions/checkout@v1 
+      - uses: azure/appconfiguration-sync@v1 
+        with: 
+          configurationFile: 'appsettings.json' 
+          format: 'json' 
+          # Replace <ConnectionString> with the name of the secret in your                        
+          # repository 
+          connectionString: 'Endpoint=https://config-mppoc-001.azconfig.io;Id=RzvM;Secret=oFEHNljCh1MPy7ptz3LBcgkXI2YBmEoJm4ic8JptDNo=' 
+          separator: ':' 
