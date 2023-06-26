@@ -14,4 +14,5 @@ jobs:
           # Replace <ConnectionString> with the name of the secret in your                        
           # repository 
           connectionString: 'Endpoint=https://config-mppoc-001.azconfig.io;Id=RzvM;Secret=oFEHNljCh1MPy7ptz3LBcgkXI2YBmEoJm4ic8JptDNo=' 
-          separator: ':' 
+          separator: ':'
+          prefix: 'SampleApp:'
