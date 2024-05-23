@@ -27,7 +27,7 @@ namespace playground_webapp.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "Your application description page." + Environment.GetEnvironmentVariable("WEBSITE_INSTANCE_ID");
 
             return View();
         }
